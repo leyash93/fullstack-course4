@@ -1,0 +1,20 @@
+ <!DOCTYPE html>
+ <html lang="en">
+  <head>   
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-
+   scale=1">
+   <title>Our Menu</title>
+  </head>
+ <body>
+ 
+   <div class="container-fluid">
+     <div class="row">
+       <div class="chicken-md-4">Chicken</div>
+       <div class="beef-md-4">Beef</div>
+       <div class="sushi-md-4">Sushi</div>
+      </div>
+     </div>
+   
+
+
