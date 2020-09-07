@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Assignment Solution For Module 2</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<link rel="stylesheet" type="text/css" href="module-2-assignment.css">
+
+	
+</head>
+<body>
+	
+	<div>	
+		<div><h1>Our Menu</h1></div>
+
+		<div class="mainDiv">
+
+			<div class="outer-lg-1 outer-md-2 outer-sm-3">
+				<div class="element">
+				<h4 id="chicken">Chicken</h4>
+				<p>Chicken is the most common type of poultry in the world.  Owing to the relative ease and low cost of raising them in comparison to animals .</p>
+				</div>
+			</div>
+
+			<div class="outer-lg-1 outer-md-2 outer-sm-3">
+				<div class="element">
+				<h4 id="beef">Beef</h4>
+				<p>Beef is the culinary name for meat from cattle, particularly skeletal muscle.Humans have been eating beef since prehistoric times. Beef is a source of protein and nutrients. </p>
+				</div>
+			</div>
+
+			<div class="outer-lg-1 outer-md-3 outer-sm-3">
+				<div class="element">
+				<h4 id="sush">Sushi</h4>
+				<p>Sushi is a Japanese dish of prepared vinegared rice.Usually with some sugar and salt, accompanying a variety of ingredients (ネタ, neta), such as seafood, often raw, and vegetables.</p>
+				</div>
+			</div>
+			</div>
+		</div>
+	</div>
+
+</body>
+</html>
